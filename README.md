@@ -17,4 +17,4 @@ CREATE TABLE `user_form` (
 
 ### ****Copy files to htdocs folder****
 
-Download the above files. Create a folder named *crud* inside *htdocs* folder in *xampp* directory. Finally, copy the *crud* folder inside *htdocs* folder. Now, visit [localhost/user_form](http://localhost/user_form) in your browser and you should see the application.
+Download the above files. Create a folder named *user_form* inside *htdocs* folder in *xampp* directory. Finally, copy the *user_form* folder inside *htdocs* folder. Now, visit [localhost/user_form](http://localhost/user_form) in your browser and you should see the application.
